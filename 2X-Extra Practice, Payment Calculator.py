@@ -1,0 +1,1 @@
+print(min(balance, max(10, balance*0.021)))
