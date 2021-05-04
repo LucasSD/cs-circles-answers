@@ -1,5 +1,0 @@
-name = input()
-print(2*(name + ', ') + 'bo-b' + name[1:len(name)])
-print('banana-fana fo-f' + name[1:len(name)])
-print('fee-fi-mo-m' + name[1:len(name)])
-print(name+'!')
